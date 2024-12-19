@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/product-page/static/css/main.405b1b72.css",
+    "main.js": "/product-page/static/js/main.961492d3.js",
+    "static/js/787.6db76cf1.chunk.js": "/product-page/static/js/787.6db76cf1.chunk.js",
+    "static/media/Course-Content-1.jpg": "/product-page/static/media/Course-Content-1.ee0b7e65afc89d093dee.jpg",
+    "index.html": "/product-page/index.html",
+    "main.405b1b72.css.map": "/product-page/static/css/main.405b1b72.css.map",
+    "main.961492d3.js.map": "/product-page/static/js/main.961492d3.js.map",
+    "787.6db76cf1.chunk.js.map": "/product-page/static/js/787.6db76cf1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.405b1b72.css",
+    "static/js/main.961492d3.js"
+  ]
+}
