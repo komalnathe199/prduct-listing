@@ -1,0 +1,44 @@
+
+.product-card  .main-card-class{
+    padding: 20px;
+}
+
+
+.product-card  .main-card-class:hover{
+    box-shadow: 0px 3px 6px #000;
+}
+
+.product-card  .main-card-class .product-name {
+    font-size: 15px;
+    font-weight: 600;
+
+}
+
+.product-card  .main-card-class .heart-icon {
+    color: #ee204e;
+}
+
+.product-card  .main-card-class .card-img {
+    width: 100%;
+}
+
+.product-card  .main-card-class .product-desc {
+    font-size: 13px;
+}
+
+.product-card  .main-card-class .price-sub {
+    text-decoration: line-through;
+    font-size: 13px;
+}
+
+.product-card  .main-card-class .offiprice {
+    font-size: 11px;
+    color: #FFF;
+    border-radius: 25px;
+    background: #ff6746;
+    padding: 3px 10px;
+}
+
+.normal-text {
+    font-size: 14px;
+}
